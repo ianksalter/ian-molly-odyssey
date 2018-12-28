@@ -5,4 +5,4 @@ Commented out until ready to get Travis build working.
 --->
 
 This repository contains the source of the small book [Ian and Molly's Odyssey](https://bookdown.org/ianksalter/ianandmollysodyssey)
-book. The book is built using [bookdown](https://github.com/rstudio/bookdown).
+book. The repository has a Spanish version of the repository: [ianksalter/odisea-ian-molly](https://github.com/ianksalter/odisea-ian-molly)The book is built using [bookdown](https://github.com/rstudio/bookdown).
