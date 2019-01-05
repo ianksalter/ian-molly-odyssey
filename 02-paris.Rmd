@@ -1,3 +1,6 @@
+---
+output: html_document
+---
 # Paris
 
 I always wake before everyone else and have got very used to creeping about the gaff, any gaff, while others are still sleeping.
